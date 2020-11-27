@@ -4,7 +4,7 @@ import contactFormSlice from "./contactFormSlice";
 import contactsSlice from "./contactsSlice";
 import errorSlice from "./errorSlice";
 import filterSlice from "./filterSlice";
-import loaderSlice from "./filterSlice";
+import loaderSlice from "./loaderSlice";
 
 
 const rootReducer=combineReducers({
